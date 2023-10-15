@@ -15,17 +15,17 @@ I would like to extend my heartfelt gratitude to my course instructor, Dr. Abdul
 
 ## Instructor:
 
-Name: Dr. Abdul Samad
-Website: Dr. Abdul Samad's Profile
-Email: abdul.samad@sse.habib.edu.pk
+1. Name: Dr. Abdul Samad
+2. Website: https://habib.edu.pk/SSE/dr-abdul-samad/
+3. Email: abdul.samad@sse.habib.edu.pk
 
 I would also like to express my appreciation to my dedicated Research Assistant (RA), Muhammad Munawwar Anwar, for his valuable assistance and prompt responses to my queries. His support has been instrumental in my successful completion of the course.
 
 ## RA:
 
-Name: Muhammad Munawwar Anwar
-LinkedIn: Muhammad Munawwar Anwar's LinkedIn
-Email: munawwar.anwar@sse.habib.edu.pk
+1. Name: Muhammad Munawwar Anwar
+2. LinkedIn: Muhammad Munawwar Anwar's LinkedIn
+3. Email: munawwar.anwar@sse.habib.edu.pk
 
 ## Course Overview
 CS 316 - Introduction to Deep Learning is a comprehensive course that provides an introduction to the fundamental concepts, techniques, and applications of deep learning. The course covers various topics, including neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and deep learning for image and natural language processing. You will gain hands-on experience through lab assignments and a course project.
