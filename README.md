@@ -2,13 +2,13 @@
 Welcome to the CS 316 - Introduction to Deep Learning GitHub repository! This repository contains all the materials related to the course, including lab assignments and the course project.
 
 ## Table of Contents
-Instructor and RA Acknowledgment
-Course Overview
-Lab Assignments
-Course Project
-Prerequisites
-Getting Started
-Contributing
+1. Instructor and RA Acknowledgment
+2. Course Overview
+3. Lab Assignments
+4. Course Project
+5. Prerequisites
+6. Getting Started
+7. Contributing
 
 ## Instructor and RA Acknowledgment
 I would like to extend my heartfelt gratitude to my course instructor, Dr. Abdul Samad, for his invaluable guidance and unwavering support throughout this course. Dr. Abdul Samad's expertise and passion for teaching deep learning have played a pivotal role in my learning journey.
